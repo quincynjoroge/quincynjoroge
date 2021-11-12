@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAEviUmBbog/xT-HvD2eOn1RvA-6yRLuvA/edit?layoutQuery=banner)]
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGTHDocSX-htQ/profile-displaybackgroundimage-shrink_350_1400/0/1634237813053?e=1642032000&v=beta&t=hZlESpDxjH5V4AJCby5gSsfMwzvYMXIF5t1jJ1rHPLY)]
 <h1 align="center">Hello 👋, I'm Quincy Wambui</h1>
 <h3 align="center">A passionate Data Analyst, NLP Engineer & Visualization Nerd.</h3>
 
