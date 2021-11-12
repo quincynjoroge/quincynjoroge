@@ -1,6 +1,7 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGTHDocSX-htQ/profile-displaybackgroundimage-shrink_350_1400/0/1634237813053?e=1642032000&v=beta&t=hZlESpDxjH5V4AJCby5gSsfMwzvYMXIF5t1jJ1rHPLY)]
-<h1 align="center">Hello 👋, I'm Quincy Wambui</h1>
-<h3 align="center">A passionate Data Analyst, NLP Engineer & Visualization Nerd.</h3>
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGTHDocSX-htQ/profile-displaybackgroundimage-shrink_350_1400/0/1634237813053?e=1642032000&v=beta&t=hZlESpDxjH5V4AJCby5gSsfMwzvYMXIF5t1jJ1rHPLY)](https://media-exp1.licdn.com/dms/image/C4E16AQGTHDocSX-htQ/profile-displaybackgroundimage-shrink_350_1400/0/1634237813053?e=1642032000&v=beta&t=hZlESpDxjH5V4AJCby5gSsfMwzvYMXIF5t1jJ1rHPLY)
+
+<h3 align="center">A passionate Data Analyst, NLP Enthusiast & Visualization Nerd</h3>
+
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/quincynjoroge)
 
@@ -9,10 +10,6 @@
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/16gS9jJGiyfORUdc3uChWTlKfEK-a4l3kuu9773TJXbk/edit?usp=sharing)
 
 - ⚡ Fun fact **I am a dancer :)**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
