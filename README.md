@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, I'm Quincy Wambui</h1>
 <h3 align="center">A passionate Data Analyst, NLP Engineer & Visualization Nerd.</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/quincynjoroge](https://github.com/quincynjoroge)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/quincynjoroge)
 
-- 📝 I regularly write articles on [https://medium.com/@quincywambui](https://medium.com/@quincywambui)
+- 📝 I regularly write articles on [Medium](https://medium.com/@quincywambui)
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/16gS9jJGiyfORUdc3uChWTlKfEK-a4l3kuu9773TJXbk/edit?usp=sharing](https://docs.google.com/document/d/16gS9jJGiyfORUdc3uChWTlKfEK-a4l3kuu9773TJXbk/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/16gS9jJGiyfORUdc3uChWTlKfEK-a4l3kuu9773TJXbk/edit?usp=sharing)
 
 - ⚡ Fun fact **I am a dancer :)**
 
