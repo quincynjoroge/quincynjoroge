@@ -7,14 +7,12 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@quincywambui)
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/16gS9jJGiyfORUdc3uChWTlKfEK-a4l3kuu9773TJXbk/edit?usp=sharing)
-
 - ⚡ Fun fact **I enjoy dancing :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/quincywambui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quincywambui" height="30" width="40" /></a>
-<a href="https://kaggle.com/quincywambui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="quincywambui" height="30" width="40" /></a>
+<a href="https://kaggle.com/quincywambui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="quincywambui" eight="30" width="40" /></a>
 <a href="https://medium.com/@quincywambui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@quincywambui" height="30" width="40" /></a>
 </p>
 
