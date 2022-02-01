@@ -5,9 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/quincynjoroge)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@quincywambui)
-
-- ⚡ Fun fact **I enjoy dancing :)**
+- ⚡ Fun fact **I enjoy dancing & I look forward to becoming a good mentor :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
