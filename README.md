@@ -1,4 +1,4 @@
-<h1 align="center">Ola Amgigas! (Hello Friends!) 👋🏾</h1>
+<h1 align="center">Ola Amigas! (Hello Friends!) 👋🏾</h1>
 <p align="center">📍NRB <br> <br> I'm <b>Quincy Wambui.</b> <br><br> <b>Data Analyst</b> currently pursuing an MSc in Data science and Analytics at<b> the University of Westminster</b><br><br> Passionate about sharing <b> the knowledge I acquire on data analytics</b><br><br>I aspire<b> to continuously share projects while I develop my skill set. <br><br>🌱 🚀 👩🏾‍💻 📚</p>
 
 <br>
@@ -16,15 +16,16 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shohaha&show_icons=true&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api?username=quincynjoroge&show_icons=true&theme=dracula">
+  
 
 </p>
   
-<!--[![Sho's github stats](https://github-readme-stats.vercel.app/api?username=shohaha&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Quincy's github stats](https://github-readme-stats.vercel.app/api?username=quincynjoroge&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 <!--
-**shohaha/shohaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**quincynjoroge/quincynjoroge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
